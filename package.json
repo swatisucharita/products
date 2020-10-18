@@ -1,0 +1,15 @@
+{
+  "name": "section",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "es-dev-server --node-resolve"
+  },
+  "author": "Swati Sucharita",
+  "license": "ISC",
+  "dependencies": {
+    "es-dev-server": "^1.57.8"
+  }
+}
